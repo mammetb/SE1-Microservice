@@ -6,4 +6,5 @@ To request data, add the name of the desired individual in the name.txt file. Ma
 ## Receiving Data
 The data will be written to the para.txt file, and can be opened from there. 
 
-![Screenshot from 2023-02-13 14-05-49](https://user-images.githubusercontent.com/102546957/218574427-bb7a54b7-163d-4c5b-992b-f84a42a63835.png)
+
+![Screenshot from 2023-02-13 14-09-15](https://user-images.githubusercontent.com/102546957/218575026-63c88240-f46d-49ff-bbcc-7689d0d343b6.png)
